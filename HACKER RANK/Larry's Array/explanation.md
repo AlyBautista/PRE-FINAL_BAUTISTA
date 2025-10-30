@@ -1,0 +1,1 @@
+I created a function larrysArray(A) that checks if the array can be sorted using only special rotations. The key idea is that the array can be sorted if the number of inversions is even. So I counted all pairs where a larger number appears before a smaller one. If the total inversions were even, I returned "YES"; otherwise, I returned "NO".

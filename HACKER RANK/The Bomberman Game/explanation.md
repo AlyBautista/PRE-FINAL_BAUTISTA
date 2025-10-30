@@ -1,0 +1,1 @@
+I created the function bomberMan to simulate the Bomberman game. If n equals 1, I return the original grid. If the time is even, I fill the whole grid with bombs. For odd times, I simulate the explosions by removing bombs and their adjacent cells. I generate the grid after the first and second explosion cycles and return the correct one based on the time pattern.

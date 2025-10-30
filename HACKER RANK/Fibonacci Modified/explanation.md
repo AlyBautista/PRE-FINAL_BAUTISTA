@@ -1,0 +1,1 @@
+I created a function fibonacciModified(t1, t2, n) that generates a modified Fibonacci sequence. Instead of adding the last two numbers, I added the number two positions before with the square of the previous number. I stored each result in the sequence until reaching the nth value, then returned that final number.

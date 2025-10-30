@@ -1,0 +1,1 @@
+I created the function redJohn to compute how many prime numbers exist based on the number of ways to arrange bricks in a wall. I calculated the number of brick arrangements using dynamic programming, then counted how many primes are less than or equal to that number using the countPrimes helper function. Finally, I returned the total count of primes.

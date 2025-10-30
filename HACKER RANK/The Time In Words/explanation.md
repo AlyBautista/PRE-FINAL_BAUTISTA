@@ -1,0 +1,1 @@
+I created the function timeInWords to convert a given hour and minute into words. I mapped numbers to words, handled special cases like "quarter" and "half," and determined whether to say "past" the current hour or "to" the next hour. I then returned the correct time phrase as a string.

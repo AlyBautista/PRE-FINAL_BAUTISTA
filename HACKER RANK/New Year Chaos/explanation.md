@@ -1,0 +1,1 @@
+I created a function called minimumBribes that counts how many bribes happened in a queue. I checked if anyone moved more than two spots forward—if yes, I returned “Too chaotic.” Otherwise, I counted how many people overtook others and returned the total number of bribes.

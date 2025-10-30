@@ -1,0 +1,1 @@
+I created a function surfaceArea(A) that calculates the total surface area of stacked cubes on a grid. I looped through each cell to get its height, then added the top and bottom areas. After that, I compared its height to its neighboring cells (up, down, left, right) and added only the exposed sides. Finally, I returned the total calculated area.

@@ -1,0 +1,1 @@
+I created a function encryption(s) that encrypts a message by rearranging its characters. I first removed all spaces and calculated the number of rows and columns using the square root of the string length. Then, I read the characters column by column and formed new words. Finally, I joined those words with spaces and returned the encrypted message.

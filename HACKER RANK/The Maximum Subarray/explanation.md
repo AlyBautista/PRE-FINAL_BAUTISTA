@@ -1,0 +1,1 @@
+I created the function maxSubarray to find both the maximum contiguous subarray sum and the maximum subsequence sum. I first summed all positive numbers for the subsequence (or used the largest element if all are negative). Then, I used Kadane’s algorithm to find the maximum sum of any contiguous subarray. Finally, I returned both results in an array.

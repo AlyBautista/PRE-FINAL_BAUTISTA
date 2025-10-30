@@ -1,0 +1,1 @@
+I created the function stockmax by looping from the end of the price list, always tracking the highest future price and adding profit whenever the current price is lower.

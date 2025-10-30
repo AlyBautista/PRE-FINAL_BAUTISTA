@@ -1,0 +1,1 @@
+I created the function organizingContainers to check if balls can be rearranged so each container holds only one type. I first calculated the total number of balls in each container and then the total number of each ball type. After sorting both totals, I compared them. If they match exactly, I returned "Possible"; otherwise, "Impossible".

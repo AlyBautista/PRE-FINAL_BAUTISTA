@@ -1,0 +1,1 @@
+I created a function flippingMatrix(matrix) to maximize the sum of the top-left quadrant of the matrix. Since I can flip rows and columns, each position in the top-left has four possible values it can take. For every cell in that quadrant, I checked all four mirrored positions and added the largest value among them to the result. Finally, I returned the total sum.

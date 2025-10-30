@@ -1,0 +1,1 @@
+I created the function cost by using dynamic programming to compare low and high values at each step, maximizing the total cost based on the differences between numbers.

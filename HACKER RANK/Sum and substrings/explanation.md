@@ -1,0 +1,1 @@
+I created the function substrings by using dynamic programming to calculate the sum of all numeric substrings. I convert the number into digits, build each substring’s contribution using a running formula, and keep the result modulo 10⁹+7.

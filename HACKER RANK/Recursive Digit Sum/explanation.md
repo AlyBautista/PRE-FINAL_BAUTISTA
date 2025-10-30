@@ -1,0 +1,1 @@
+I created the function superDigit to compute the repeated digital sum of a number. I first added all digits of n and multiplied the result by k. Then, I repeatedly summed the digits of the new number until only one digit remained, and returned that final value.

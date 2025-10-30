@@ -1,0 +1,1 @@
+I created the function gridSearch to check if a smaller pattern grid exists inside a larger grid. I loop through each possible starting position in the big grid and compare the substring of each row with the pattern. If every row from that position matches the pattern, I return "YES". If no match is found after checking all positions, I return "NO".

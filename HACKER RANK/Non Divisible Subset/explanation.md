@@ -1,0 +1,1 @@
+I created a function called nonDivisibleSubset that counts how many numbers can be chosen so no pair adds up to a multiple of k. I grouped numbers by their remainders when divided by k, then selected the maximum possible values from each remainder group while making sure they don’t form divisible pairs. Finally, I returned the size of the largest valid subset.

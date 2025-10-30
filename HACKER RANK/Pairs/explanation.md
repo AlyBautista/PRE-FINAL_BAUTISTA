@@ -1,0 +1,1 @@
+I created the function pairs to count how many pairs have a difference of k. I stored each number in a lookup object, then checked if each number plus k exists in that object. Every match increases the count, and I returned the total.

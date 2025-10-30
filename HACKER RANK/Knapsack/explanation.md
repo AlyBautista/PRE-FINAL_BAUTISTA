@@ -1,0 +1,1 @@
+I created this function unboundedKnapsack to find the maximum value that fits in a knapsack of size k, where items can be used many times. I made a dp array to store the best value for each weight. Then, I looped through each item and updated dp to get the highest value possible by reusing items. Finally, I returned dp[k], which gives the maximum total value.

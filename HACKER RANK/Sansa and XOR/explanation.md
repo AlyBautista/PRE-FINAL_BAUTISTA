@@ -1,0 +1,1 @@
+I created the function sansaXor to return the XOR of specific elements based on the array length, where if the array size is odd, I XOR all elements at even indices, otherwise the result stays 0.

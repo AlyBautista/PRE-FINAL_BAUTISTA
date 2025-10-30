@@ -1,0 +1,1 @@
+I created the function queensAttack to count how many squares the queen can attack. I defined all 8 movement directions of the queen, stored obstacles in a set for quick checking, and then moved step-by-step in each direction until hitting the edge of the board or an obstacle. I counted all reachable positions and returned the total.

@@ -1,0 +1,1 @@
+I created the function sherlockAndAnagrams by checking every substring, sorting their letters, counting matching patterns, and adding up the pairs that form anagrams.

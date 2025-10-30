@@ -1,0 +1,1 @@
+I created a function counterGame(n) to simulate a game where players reduce the number n until it becomes 1. On each turn, if n is a power of 2, I divided it by 2. Otherwise, I subtracted the largest power of 2 that is less than n. I switched turns after every move. Finally, when the game ended, I returned the winner based on whose turn it would have been next.

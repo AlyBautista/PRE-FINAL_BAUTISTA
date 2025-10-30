@@ -1,0 +1,1 @@
+I created this program to count how many prime dates exist between two dates. A prime date is when the combined number of the day, month, and year is divisible by 4 or 7. I used functions to set month days, adjust for leap years, and loop through each date. For every date, I checked the condition and counted valid ones. Finally, I printed the total number of prime dates.

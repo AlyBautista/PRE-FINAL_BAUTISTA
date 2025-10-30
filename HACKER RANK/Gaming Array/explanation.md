@@ -1,0 +1,1 @@
+I created a function gamingArray(arr) that simulates the game played between Bob and Andy. I tracked the largest number seen so far from left to right. Every time a new maximum appeared, it counted as a move. After checking the whole array, if the number of moves was odd, Bob wins; if even, Andy wins. I then returned the winner.

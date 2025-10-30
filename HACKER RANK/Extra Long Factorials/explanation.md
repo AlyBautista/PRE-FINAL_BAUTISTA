@@ -1,0 +1,1 @@
+I created a function extraLongFactorials(n) to calculate very large factorials. I used BigInt so the multiplication can handle huge numbers without overflow. I looped from 1 up to n, multiplying each value into the result. Finally, I printed the full number using toString().

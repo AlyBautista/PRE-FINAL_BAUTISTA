@@ -1,0 +1,1 @@
+I created the function isValid by counting character frequencies and checking if the string can still be valid when removing at most one character to make all frequencies equal.
