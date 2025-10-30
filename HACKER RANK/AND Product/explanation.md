@@ -1,0 +1,1 @@
+I created this function andProduct to find the bitwise AND of all numbers between a and b. I used a loop to right-shift both numbers until they became equal, counting how many shifts were made. When they matched, I left-shifted the result back by the same number of shifts to get the final AND value.
