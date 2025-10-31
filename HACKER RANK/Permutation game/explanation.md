@@ -1,0 +1,1 @@
+I created this function permutationGame to determine who wins when players remove elements until the array is sorted. I used isSorted to check order and grundy with memoization to compute winning positions using game theory. It removes elements, finds the mex value, and decides the winner — Alice if the result isn’t zero, otherwise Bob.
